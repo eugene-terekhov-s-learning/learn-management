@@ -1,0 +1,17 @@
+theme: minima
+title: "Изучение основ менеджмента"
+description: "Системное мышление, операционный менеджмент и управление проектами"
+author: "Евгений Терехов"
+domain: eugene-terekhov-s-learning.github.io
+url: https://eugene-terekhov-s-learning.github.io
+baseurl: /management
+github_username: nergal-perm
+linkedin_username: eterehov-java-lead
+youtube_username: "@EugeneWritesCode"
+rss: rss
+minima:
+  date_format: "%Y-%m-%d %H:%M"
+disqus:
+  shortname: learn-management-1
+plugins:
+  - jekyll-gist
