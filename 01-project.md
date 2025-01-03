@@ -3,4 +3,6 @@ title: "Проект"
 layout: page
 ---
 
-Дневник проекта по изучению основ менеджмента. 
+Здесь скоро появится высокоуровневое описание проекта, а пока - только ссылка
+на [Roadmap на Github'е](https://github.com/orgs/eugene-terekhov-s-learning/projects/2)
+
