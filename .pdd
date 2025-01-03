@@ -1,0 +1,4 @@
+--source=.
+--verbose
+--exclude _site/**
+--rule min-words:5
