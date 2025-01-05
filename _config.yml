@@ -20,3 +20,6 @@ collections:
   decisions:
     output: true
     permalink: /decisions/:name
+  logs:
+    output: true
+    permalink: /logs/:name

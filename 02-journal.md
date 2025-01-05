@@ -1,6 +1,6 @@
 ---
 title: "Журнал"
-layout: home
+layout: logs
 list_title: "Записи"
 ---
 
