@@ -1,6 +1,7 @@
 ---
 title: "Проект"
-layout: page
+layout: post
+comments: true
 ---
 
 Ссылка на [Roadmap на Github'е](https://github.com/orgs/eugene-terekhov-s-learning/projects/2)
