@@ -1,4 +1,3 @@
-@todo #1 Описать проект обучения с помощью project canvas
 @todo #8 UL 5. Focus: Sharpen your knife
 @todo #8 UL 6. Directness: Go straight ahead
 @todo #8 UL 7. Drill: Attack your weakest point

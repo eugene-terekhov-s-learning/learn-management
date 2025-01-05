@@ -1,5 +1,5 @@
 ---
-title: Глава 5. Шаблон проектов
+title: Шаблон проектов (project canvas) - глава из "Цель как проект"
 date: 2025-01-03
 layout: post
 comments: true
