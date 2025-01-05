@@ -9,3 +9,4 @@
 @todo #8 UL 12. Experimentation: Explore outside your comfort zone
 @todo #8 UL 13. Your first ultralearning project
 @todo #8 UL 14. An unconventional education
+@todo #2 Опубликовать принятые решения в виде списка
