@@ -1,4 +1,7 @@
 @todo #8 UL 4. Metalearning: Drawing a map
+@todo #21 Прочитать статью про влияние обстоятельств на обучение
+@todo #21 Составить верхнеуровневую карту проекта
+@todo #21 Составить карту подпроекта "Рациональная работа"
 @todo #8 UL 5. Focus: Sharpen your knife
 @todo #8 UL 6. Directness: Go straight ahead
 @todo #8 UL 7. Drill: Attack your weakest point
