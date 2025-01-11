@@ -20,9 +20,9 @@ collections:
   decisions:
     output: true
     permalink: /decisions/:name
-  logs:
+  notes:
     output: true
-    permalink: /logs/:name
+    permalink: /notes/:name
   sprints:
     output: true
     permalink: /sprints/:name
